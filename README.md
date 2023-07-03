@@ -8,7 +8,7 @@ Responsive form with validation using React js
    <img src='registration-form/src/assets/regisrration error desktop.PNG' />
 
 
-   <img src='registration-form/src/assets/no error.PNG />
+   <img src='registration-form/src/assets/no error.PNG' />
    
    <img src='registration-form/src/assets/responsive.PNG' />
 
