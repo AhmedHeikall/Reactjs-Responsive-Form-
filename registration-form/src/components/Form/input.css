@@ -1,0 +1,33 @@
+.input-box {
+  width: 100%;
+  margin-top: 20px;
+}
+.input-box label {
+  color: #333;
+}
+
+.input-box input {
+  position: relative;
+  height: 60px;
+  width: 100%;
+  font-size: 1rem;
+  color: #707070;
+  outline: none;
+  border: 1px solid #ddd;
+  margin-top: 8px;
+  border-radius: 8px;
+  padding: 0 10px;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+input:focus {
+  box-shadow: -3px 0px 11px 15px rgba(0, 0, 0, 0.06);
+}
+
+.invalid-text {
+  color: rgb(228, 49, 49);
+}
+
+.invalid input {
+  border: 1px solid rgb(228, 49, 49);
+}
